@@ -7,7 +7,7 @@
 ## Project Overview
 This project is an **end-to-end data analysis solution** designed to extract critical business insights from Walmart sales data.  
 
-We utilize:
+The project leverages:
 - **Python** for data processing, cleaning, and automation  
 - **MySQL** for advanced querying and analytics  
 - Structured problem-solving to answer real-world business questions  
