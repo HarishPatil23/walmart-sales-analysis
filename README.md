@@ -19,7 +19,7 @@ Ideal for data analysts, job seekers, and portfolio building — this project de
 ## Project Steps
 
 ### 1. Set Up the Environment
-**Tools Used**: Visual Studio Code (VS Code), Python, MySQL  
+**Tools & Technologies**: Python, MySQL, Visual Studio Code (VS Code)  
 **Goal**: Create a structured workspace and organize project folders for smooth development and data handling.
 
 ### 2. Set Up Kaggle API
