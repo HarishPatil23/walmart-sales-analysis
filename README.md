@@ -1,6 +1,6 @@
 
 # Walmart Sales Data Analysis  
-### End-to-End SQL + Python Project (MySQL)
+**End-to-End Python + MySQL Project**
 
 ---
 
@@ -128,20 +128,12 @@ pip install -r requirements.txt
 
 ### Project Structure
 ```bash
-├── data/                               # Raw + cleaned datasets
-│   ├── walmart_raw.csv                 # Original dataset
-│   └── walmart_clean.csv               # Final cleaned dataset
-│
-├── sql/                                # SQL scripts folder
-│   └── walmart_business_queries_mysql.sql   # All 15 business problems solved
-│
-├── notebooks/                          # Jupyter notebooks (EDA, cleaning)
-│   └── walmart_analysis.ipynb
-│
-├── main.py                             # ETL: Load, clean, and export to MySQL
-│
-└── README.md                           # Project documentation
-
+walmart-sales-analysis/
+├── Walmart.csv                        # Original raw file
+├── walmart_clean_data.csv             # Cleaned + enriched 
+├── walmart_business_problems.pdf      # Original Category A business problems
+├── walmart_business_queries_mysql.sql   # All 15 business problems solved
+└── Walmart_Project_py_sql.ipynb          # Main notebook: cleaning → feature eng → MySQL load
 ```
 ---
 
