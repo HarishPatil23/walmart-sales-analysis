@@ -27,7 +27,7 @@ Ideal for data analysts, job seekers, and portfolio building — this project de
 - Go to [Kaggle → Account → Settings → Create New Token](https://www.kaggle.com/settings)  
 - Download `kaggle.json`  
 **Configure Kaggle**:  
-- Place `kaggle.json` in `C:\Users\<YourUser>\.kaggle\` (Windows) or `~/.kaggle/` (Mac/Linux)  
+- Place `kaggle.json` in `C:\Users\<YourUser>\.kaggle\` (Windows) 
 - Use the command `kaggle datasets download -d <dataset-path>` to pull datasets directly into your project.
 
 ### 3. Download Walmart Sales Data
